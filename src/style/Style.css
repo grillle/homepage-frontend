@@ -1,0 +1,24 @@
+.navLink {
+    text-decoration: none;
+    text-transform: lowerCase;
+}
+
+.navLink:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.navLink:hover {
+    color: white;
+}
+.navigation-item {
+    margin: 5px;
+}
+
+.navigation {
+    background-color: white;
+    
+    width: auto;
+    justify-content: center;
+    display: flexbox;
+}
